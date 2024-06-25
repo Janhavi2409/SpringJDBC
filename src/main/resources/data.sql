@@ -1,0 +1,3 @@
+--insert into studentsdata (rollNo, name, marks) values (101, 'Alisha', 94);
+--insert into studentsdata (rollNo, name, marks) values (102, 'Rishi', 98);
+--insert into studentsdata (rollNo, name, marks) values (103, 'Tejveer', 92);
